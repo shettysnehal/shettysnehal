@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A decentralized Finance app made with web3.js and next.js**
 
-- 🌱 I’m currently learning **Bloc Flutter,Machine Leaerning**
+- 🌱 I’m currently learning **Bloc Flutter,Machine Learning**
 
 - 💬 Ask me about **React , Next , web3 , MERN**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/snehal shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehal shetty" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/snehal-shetty-8b1116301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehal shetty" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
