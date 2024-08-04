@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A decentralized Finance app made with web3.js and next.js**
 
-- 🌱 I’m currently learning **Bloc Flutter, Machine Learning**
+- 🌱 I’m currently learning **Bloc Flutter, Machine Learning, DeFi**
 
 - 💬 Ask me about **React, Next, web3, MERN ,Blockchain, Dapps**
 
