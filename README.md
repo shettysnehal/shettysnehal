@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Bloc Flutter, Machine Learning**
 
-- 💬 Ask me about **React, Next, web3, MERN**
+- 💬 Ask me about **React, Next, web3, MERN ,Blockchain, Dapps**
 
 - 📫 How to reach me **shettysnehal105@gmail.com**
 
