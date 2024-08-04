@@ -66,15 +66,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Solidity_logo.svg" alt="solidity" width="40" height="40"/>
-  </a>
-  <a href="https://web3js.org/" target="_blank" rel="noreferrer">
-    <img src="https://web3js.org/images/logo.png" alt="web3" width="40" height="40"/>
-  </a>
-  <a href="https://www.blockchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.blockchain.com/img/icon-blockchain-light.svg" alt="blockchain" width="40" height="40"/>
-  </a>
+ 
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shettysnehal&show_icons=true&locale=en&layout=compact" alt="shettysnehal" /></p>
