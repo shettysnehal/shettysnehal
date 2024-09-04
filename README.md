@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A decentralized app made with web3.js and next.js**
 
-- 🌱 I’m currently learning **BMachine Learning, DeFi ,Ethereum,Image processing**
+- 🌱 I’m currently learning **Machine Learning, DeFi ,Ethereum,Image processing**
 
 - 💬 Ask me about **React, Next, Web3, MERN ,Blockchain, Dapps**
 
