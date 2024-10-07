@@ -68,5 +68,6 @@
   </a>
  
 </p>
+[![An image of @shettysnehal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shettysnehal)](https://holopin.io/@shettysnehal)
 
 
