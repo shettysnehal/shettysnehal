@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snehal Shetty</h1>
 <h3 align="center">A passionate Full stack blockchain developer || Freelancer || Web3 Innovator || Machine Learning enthusiast</h3>
 
-- 🔭 I’m currently working on **A decentralized app made with web3.js and next.js
+- 🔭 I’m currently working on **A decentralized app made with web3.js and next.js**
 
 - 🌱 I’m currently learning **Machine Learning, DeFi ,Ethereum,Image processing**
 
