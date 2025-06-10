@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Snehal Shetty</h1>
 <h3 align="center">A passionate Full stack developer || Web3 Innovator || Machine Learning enthusiast</h3>
 
-- 🌱 I’m currently learning **Machine Learning, DeFi ,Ethereum,Image processing**
+- 🌱 I’m currently learning **Machine Learning, Langchain, RAG , NFT"
 
-- 💬 Ask me about **React, Next, Web3, MERN ,Blockchain, Dapps**
+- 💬 Ask me about **Next, Web3, MERN ,Blockchain**
 
 - 📫 How to reach me **shettysnehal105@gmail.com**
 
