@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Langchain, RAG , NFT**
 
-- 💬 Ask me about **Next, Web3, MERN ,Blockchain**
+- 💬 Ask me about **Next, Web3, Blockchain**
 
 - 📫 How to reach me **shettysnehal105@gmail.com**
 
